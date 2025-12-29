@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ty Friedman</h1>
 <h3 align="center">A computer science student at Notre Dame</h3>
 
-- 👨‍💻 All of my up-to-date projects are available at [https://tyfriedman.me](https://tyfriedman.me)
+- 👨‍💻 All of my up-to-date projects are available at [tymfriedman.com](https://tymfriedman.com)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
