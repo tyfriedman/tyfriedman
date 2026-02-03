@@ -1,4 +1,4 @@
-- 👨‍💻 All of my up-to-date projects are available at [tymfriedman.com](https://tymfriedman.com)
+## All of my up-to-date projects are available at [tymfriedman.com](https://tymfriedman.com)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
